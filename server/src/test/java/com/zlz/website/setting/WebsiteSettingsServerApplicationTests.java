@@ -1,10 +1,10 @@
-package com.zlz.website.setting.settingserver;
+package com.zlz.website.setting;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServerApplicationTests {
+class WebsiteSettingsServerApplicationTests {
 
     @Test
     void contextLoads() {
