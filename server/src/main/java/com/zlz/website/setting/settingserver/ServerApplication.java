@@ -1,13 +1,13 @@
-package com.zlz.website.settings;
+package com.zlz.website.setting.settingserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PersonalWebsiteSettingsApplication {
+public class ServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PersonalWebsiteSettingsApplication.class, args);
+        SpringApplication.run(ServerApplication.class, args);
     }
 
 }
