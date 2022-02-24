@@ -9,14 +9,14 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <artifactId>common</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-
+  <artifactId>settings.client</artifactId>
   <packaging>jar</packaging>
 
-  <properties>
-    <java.version>1.8</java.version>
-  </properties>
-
+  <dependencies>
+    <dependency>
+      <groupId>com.zlz.website</groupId>
+      <artifactId>settings.common</artifactId>
+    </dependency>
+  </dependencies>
 
 </project>
