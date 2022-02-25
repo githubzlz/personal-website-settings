@@ -23,7 +23,8 @@ public class HeathCheckController {
     private UsersMapper usersMapper;
 
     @GetMapping("/health")
-    public String healthCheck() {
+    public String healthCheck() throws InterruptedException {
+        Thread.sleep(500);
         return "health";
     }
 

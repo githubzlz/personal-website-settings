@@ -8,7 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <artifactId>setting.server</artifactId>
+  <artifactId>settings.server</artifactId>
   <packaging>jar</packaging>
 
   <dependencies>
@@ -32,6 +32,12 @@
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
       <scope>runtime</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>com.zlz.gateway</groupId>
+      <artifactId>springboot-gateway-starter</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
     </dependency>
 
   </dependencies>
