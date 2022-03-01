@@ -1,6 +1,6 @@
 package com.zlz.website.setting.controller;
 
-import com.zlz.website.common.dos.UserDO;
+import com.zlz.website.settings.common.dos.UserDO;
 import com.zlz.website.setting.mapper.UsersMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

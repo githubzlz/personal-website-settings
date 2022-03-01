@@ -3,7 +3,7 @@
 <mapper namespace="com.zlz.website.setting.mapper.UsersMapper">
 
 
-  <select id="getUsers" resultType="com.zlz.website.common.dos.UserDO">
+  <select id="getUsers" resultType="com.zlz.website.settings.common.dos.UserDO">
     SELECT
     *
     FROM users

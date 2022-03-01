@@ -1,4 +1,4 @@
-package com.zlz.website.common.bos;
+package com.zlz.website.settings.common.bos;
 
 /**
  * @author zhulinzhong

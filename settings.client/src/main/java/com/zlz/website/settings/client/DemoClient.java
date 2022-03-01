@@ -1,4 +1,4 @@
-package com.zlz.website.client;
+package com.zlz.website.settings.client;
 
 /**
  * demo client

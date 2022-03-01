@@ -1,4 +1,4 @@
-package com.zlz.website.common.dos;
+package com.zlz.website.settings.common.dos;
 
 /**
  * @author zhulinzhong

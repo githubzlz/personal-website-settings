@@ -1,6 +1,6 @@
 package com.zlz.website.setting.mapper;
 
-import com.zlz.website.common.dos.UserDO;
+import com.zlz.website.settings.common.dos.UserDO;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
